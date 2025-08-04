@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hermetica Quantica
 
-<!--
-**Hermetica-Quantica/hermetica-quantica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the canonical archive of the *Hermetica Quantica*.  
+It exists to record completed Hermetic constructions in final form: integer-based, recursive, self-verifying, and timestamped.
 
-Here are some ideas to get you started:
+Each post in this repository is:
+- Structurally exact
+- Independently verifiable
+- Hash-sealed and time-anchored
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There is no commentary.  
+No discussion.  
+No provisional work.
+
+This is a ledger of operations.  
+This is a public record.  
+This is the work.
